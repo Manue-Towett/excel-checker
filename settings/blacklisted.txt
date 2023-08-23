@@ -1,0 +1,6 @@
+.co.uk
+.com.sg
+.co.za
+.cn
+.de
+.nl

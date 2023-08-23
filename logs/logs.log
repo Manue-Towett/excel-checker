@@ -1,0 +1,15 @@
+ExcelProcessor:INFO - *****ExcelProcessor Started*****
+ExcelProcessor:INFO - Input excel files found: 5
+ExcelProcessor:INFO - Retrieving blacklisted domains...
+ExcelProcessor:INFO - Blacklisted domains found: 6
+ExcelProcessor:INFO - Retrieving processed domains...
+ExcelProcessor:INFO - Processed domains found: 47169
+ExcelProcessor:INFO - Reading processed files...
+ExcelProcessor:INFO - Processed files found: 5
+ExcelProcessor:INFO - Skipping processed file >> acehardware.com_-organic.Competitors-us-20230821-2023-08-23T04_37_24Z.xlsx
+ExcelProcessor:INFO - Skipping processed file >> acmetools.com_-organic.Competitors-us-20230821-2023-08-23T04_38_46Z.xlsx
+ExcelProcessor:INFO - Skipping processed file >> barnesandnoble.com_-organic.Competitors-us-20230821-2023-08-23T10_22_44Z.xlsx
+ExcelProcessor:INFO - Skipping processed file >> bigbadtoystore.com_-organic.Competitors-us-20230821-2023-08-23T10_23_20Z.xlsx
+ExcelProcessor:INFO - Skipping processed file >> booksamillion.com_-organic.Competitors-us-20230821-2023-08-23T10_23_50Z (1).xlsx
+ExcelProcessor:INFO - Done processing.
+ExcelProcessor:INFO - Processed files: 0 || Rejected files: 5
