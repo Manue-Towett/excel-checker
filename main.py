@@ -135,7 +135,7 @@ class ExcelProcessor:
         """Saves the processed excel file to the output folder"""
         self.logger.info("Saving data to excel...")
 
-        name = filename.split("_")[0] + "- Duplicates Checked.xlsx"
+        name = filename.split("_")[0] + " - Duplicates Checked.xlsx"
 
         df = pd.DataFrame(data)
 
