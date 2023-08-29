@@ -1,5 +1,5 @@
 # excel-checker
-Removes blaclisted and duplicated domains from excel files
+Removes blacklisted and duplicated domains from excel files
 
 # Requires
 - python 3.11+

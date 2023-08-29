@@ -188,6 +188,8 @@ class ExcelProcessor:
 
             domains = [{"processed": row["Domain"]} for row in non_duplicates]
 
+            domains.append({"processed": file.split("_")[0]})
+
             self.__save_accepted_domains(domains)
 
             [self.processed.append(row["Domain"]) for row in non_duplicates]
